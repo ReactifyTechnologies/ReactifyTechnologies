@@ -1,6 +1,5 @@
 - 👋 Hi, We are @ReactifyTechnologies
 - We develop Full-Stack Web Apps and Desktop Apps
-- We work as a team
 
 
 <!---
